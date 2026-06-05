@@ -1,5 +1,11 @@
 # Future Cloud Trends Study
 
+## Intern Information
+
+**Name:** Monisha S
+**Intern ID:** CITS2080
+**Domain:** Cloud Computing
+
 ## Overview
 
 Cloud computing continues to evolve rapidly, transforming the way organizations develop, deploy, and manage applications. This project explores emerging trends that are shaping the future of cloud computing and examines their potential impact on businesses and technology.
