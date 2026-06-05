@@ -56,3 +56,16 @@ Cloud computing will continue to drive digital transformation worldwide. Emergin
 ## Author
 
 Monisha S
+
+
+## Project Screenshots
+
+### Repository Homepage
+![Repository Homepage](screenshots/cloud-image-screenshot.png)
+
+### Research Report
+![Research Report](screenshots/cloud-report-screenshot.png)
+
+## Cloud Trends Infographic
+
+![Future Cloud Trends](images/cloud-trends.png)
